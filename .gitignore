@@ -1,0 +1,11 @@
+#trucs de compil
+/target/
+**/target/
+
+#du binaire tjrs 
+hello_word/main
+
+#truvs de backup
+**/*.rs.bk  
+
+.DS_Store
